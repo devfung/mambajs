@@ -1,0 +1,39 @@
+{
+  "name": "mambajs",
+  "version": "0.3.0",
+  "description": "Mambajs is a simple library for managing routes, dependency injection, service modules, and data models.",
+  "main": "lib/index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devfung/mambajs.git"
+  },
+  "keywords": [
+    "mambajs",
+    "mambajs-cli",
+    "express"
+  ],
+  "author": "devfung@gmail.com",
+  "readmeFilename": "README.md",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devfung/mambajs/issues"
+  },
+  "homepage": "https://github.com/devfung/mambajs#readme",
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "awilix": "^4.3.1",
+    "dotenv": "^8.2.0",
+    "error": "^10.4.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1",
+    "nconf": "^0.11.1",
+    "winston": "^3.3.3"
+  },
+  "engines": {
+    "node": ">=13"
+  }
+}
